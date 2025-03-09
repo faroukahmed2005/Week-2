@@ -1,0 +1,21 @@
+div
+{
+    border: 0px                             !important;
+    width: 400px                            !important; 
+    height: auto                            !important;
+    color: black                          !important;
+    overflow: hidden                        !important;
+    font-weight: 20px                       !important;
+    text-align: center                      !important;
+    margin-left: 270px                      !important;
+    word-spacing: 200px                     !important;
+    white-space: nowrap                     !important;
+    background-color: rgb(238, 238, 238)  !important;
+}
+
+div:before 
+{
+    margin-left: 110px;
+    content: "Elzero";
+    display: inline;
+}

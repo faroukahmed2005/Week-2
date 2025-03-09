@@ -1,0 +1,37 @@
+p
+{
+    width: 400px;
+    height: 35px;
+    margin: 10px;
+    padding-top: 13px;
+    text-align: center;
+    background-color: rgb(239, 239, 239);
+
+    position: relative;
+}
+
+p::after
+{
+    content: "";
+    left: -5px;
+    bottom: 0px;
+    width: 5px;
+    height: 48px;
+    position: absolute;
+    background-color: rgb(233, 30, 99);
+}
+
+p::before
+{
+    content: "";
+    left: -25px;
+    top: 50%;
+    width: 0;
+    height: 0;
+    position: absolute;
+    margin-top: -12px;
+    border-width: 11px;
+    border-style: solid;
+    border-color: transparent rgb(233, 30, 99) transparent transparent;
+    background-color: rgb(255, 255, 255);
+}

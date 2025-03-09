@@ -1,0 +1,13 @@
+div
+{
+    width: 100px;
+    height: 100px;
+    display: flex;
+    font-size: 20px;
+    border-radius: 100%;
+    align-items: center;
+    justify-content: center;
+    color: rgb(255, 87, 34);
+    background-color: rgb(238, 238, 238);
+    box-shadow: -5px 0px 0px rgb(3, 169, 244) , 5px 0px 0px rgb(255, 87, 34);
+}

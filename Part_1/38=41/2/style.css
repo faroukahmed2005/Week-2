@@ -1,0 +1,17 @@
+div
+{
+    width: 100px;
+    height: 100px;
+    display: flex;
+    align-items: center;
+    border-radius: 10% 50%;
+    justify-content: center;
+    box-shadow: 0px 0px 9px 0px black inset;
+    background-color: rgb(239, 239, 239);
+}
+
+    /* border-radius: 0% 50%;
+    -webkit-border-radius: 0% 50%;
+    -moz-border-radius: 0% 50%;
+    -ms-border-radius: 0% 50%;
+    -o-border-radius: 0% 50%; */

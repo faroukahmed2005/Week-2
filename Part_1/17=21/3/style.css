@@ -1,0 +1,20 @@
+div
+{
+    width: 400px;
+    margin: 10px;
+    padding: 10px;
+    background-color: rgb(176, 176, 176);
+}
+
+._2
+{
+    overflow: hidden;
+    white-space: nowrap;
+}
+
+._3
+{
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}

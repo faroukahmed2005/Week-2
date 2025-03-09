@@ -1,0 +1,32 @@
+1)
+
+/* Any Element With Class Title */
+.title {
+}
+
+/* Any Element With ID nav */
+#nav {
+}
+
+/* Any div Element */
+div {
+}
+
+/* Any h2 Element */
+h2 {
+}
+------------------------------------------------------
+2)
+
+<!-- External Style -->
+<link rel="stylesheet" href="css/file.css" />
+
+<!-- Internal Style -->
+<style>
+p {
+  color: red;
+}
+</style>
+
+<!-- Inline Style -->
+<p style="color: blue;">This Is Our Paragraph</p>

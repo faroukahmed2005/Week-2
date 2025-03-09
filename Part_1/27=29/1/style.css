@@ -1,0 +1,34 @@
+.cont
+{
+    width: 800px;
+    background-color: rgb(238, 238, 238);
+}
+
+p
+{
+    padding-top: 15px;
+    padding-bottom: 15px;
+    text-align: center;
+    background-color: rgb(221, 221, 221);
+}
+
+.third
+{
+    display: inline-block;
+    width: calc((100% - 60px ) /3);
+    margin-left: 15px;
+}
+
+.half
+{
+    display: inline-block;
+    width: calc((100% - 45px ) /2);
+    margin-left: 15px;
+}
+
+.quatr
+{
+    display: inline-block;
+    width: calc((100% - 75px ) /4);
+    margin-left: 15px;
+}

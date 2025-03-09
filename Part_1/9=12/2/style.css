@@ -1,0 +1,30 @@
+div
+{
+    width: 400px;
+    height: 20px;
+    padding: 5px; 
+    margin: 6px; 
+}
+
+.element_element-1
+{
+    background-color: rgb(201, 201, 201);
+    outline: 5px solid rgb(201, 201, 201);
+    border-left: 5px solid rgb(233, 30, 99);
+}
+
+.element_element-2
+{
+    visibility: hidden;
+    
+    background-color: rgb(201, 201, 201);
+    outline: 5px solid rgb(201, 201, 201);
+    border-left: 5px solid rgb(0, 0, 255);
+}
+
+.element_element-3
+{
+    background-color: rgb(201, 201, 201);
+    outline: 5px solid rgb(201, 201, 201);
+    border-left: 5px solid rgb(0, 150, 136);
+}
